@@ -1,1 +1,1 @@
-# my-shell
+# 我的常用 shell 脚本
